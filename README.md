@@ -25,6 +25,9 @@ Here are some of the key projects I've worked on:
 📉 A computer vision project to classify images into 'fall' and 'non-fall' categories for safety monitoring.  
 **Tech Stack:** Convolutional Neural Networks (CNN), Python  
 
+## Case Study
+### **1. Predictive Analytic**
+![Predictive Analytic](https://gist.github.com/wahyuazizi/758bf3aa95c80fae7f30284391fdd173)
 ---
 
 ## 🌐 Let's Connect!  
