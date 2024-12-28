@@ -28,8 +28,8 @@ Here are some of the key projects I've worked on:
 ## 🎯 Case Study
 
 ### **1. Predictive Analytics**  
-💎 Creating a machine learning model to accurately predict diamond prices based on the available features.  
-[Predictive Analytic](https://gist.github.com/wahyuazizi/758bf3aa95c80fae7f30284391fdd173)
+💎 Creating a machine learning model to accurately predict diamond prices based on the available features.
+- [Predictive Analytic](https://gist.github.com/wahyuazizi/758bf3aa95c80fae7f30284391fdd173)
 ---
 
 ## 🌐 Let's Connect!  
