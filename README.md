@@ -31,7 +31,7 @@ Here are some of the key projects I've worked on:
 - 📝 [My Portfolio](#) *(coming soon!)*  
 - 💼 [LinkedIn](https://www.linkedin.com/in/wahyuazizi)  
 - 🐦 [Instagram](https://instagram.com/whyu.zi)  
-- 📧 Reach me at **wahyuazizi@example.com**
+- 📧 Reach me at **wahyuazizi03@gmail.com**
 
 ---
 
