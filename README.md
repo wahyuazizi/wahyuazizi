@@ -26,8 +26,9 @@ Here are some of the key projects I've worked on:
 **Tech Stack:** Convolutional Neural Networks (CNN), Python  
 
 ## Case Study
-### **1. Predictive Analytic**
-![Predictive Analytic](https://gist.github.com/wahyuazizi/758bf3aa95c80fae7f30284391fdd173)
+### **1. Predictive Analytics**
+💎 Creating a machine learning model to accurately predict diamond prices based on the available features.
+[Predictive Analytic](https://gist.github.com/wahyuazizi/758bf3aa95c80fae7f30284391fdd173)
 ---
 
 ## 🌐 Let's Connect!  
