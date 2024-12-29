@@ -31,7 +31,8 @@ Here are some of the key projects I've worked on:
 💎 Creating a machine learning model to accurately predict diamond prices based on the available features.
 - [Predictive Analytic](https://gist.github.com/wahyuazizi/758bf3aa95c80fae7f30284391fdd173)
 
-- [Sentiment Analysis](https://gist.github.com/wahyuazizi/dec2687631e29c21fa329b8eb9a5afc5)
+### **2. Sentiment Analysis**  
+- [Sentiment Analysis dengan deep learning dan SVM](https://gist.github.com/wahyuazizi/dec2687631e29c21fa329b8eb9a5afc5)
 ---
 
 ## 🌐 Let's Connect!  
