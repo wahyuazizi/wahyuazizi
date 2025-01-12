@@ -21,19 +21,9 @@ Here are some of the key projects I've worked on:
 🩺 A machine learning model for diagnosing health conditions based on symptoms and fetal health data.  
 **Tech Stack:** Neural Networks, Python, Google Cloud Vertex AI  
 
-### **2. Fall Detection System**  
-📉 A computer vision project to classify images into 'fall' and 'non-fall' categories for safety monitoring.  
-**Tech Stack:** Convolutional Neural Networks (CNN), Python  
+### **2. Predictive Analytics - Vehicle CO2 Emissions**  
+📉 Build a predictive model to predict vehicle CO2 emissions based on available datasets. [View](https://github.com/wahyuazizi/Predictive_Analysis_ML_Dicoding/)  
 
-## 🎯 Case Study
-
-### **1. Predictive Analytics**  
-💎 Creating a machine learning model to accurately predict diamond prices based on the available features.
-- [Predictive Analytic](https://gist.github.com/wahyuazizi/758bf3aa95c80fae7f30284391fdd173)
-
-### **2. Sentiment Analysis**  
-- [Sentiment Analysis dengan deep learning dan SVM](https://gist.github.com/wahyuazizi/dec2687631e29c21fa329b8eb9a5afc5)
----
 
 ## 🌐 Let's Connect!  
 - 📝 [My Portfolio](#) *(coming soon!)*  
