@@ -14,19 +14,8 @@ Hi there! I'm Wahyu, a passionate learner and aspiring Machine Learning Engineer
 
 ---
 
-## 🛠️ Projects
-Here are some of the key projects I've worked on:  
 
-### **1. Health Monitoring System**  
-🩺 A machine learning model for diagnosing health conditions based on symptoms and fetal health data.  
-**Tech Stack:** Neural Networks, Python, Google Cloud Vertex AI  
-
-### **2. Predictive Analytics - Vehicle CO2 Emissions**  
-📉 Build a predictive model to predict vehicle CO2 emissions based on available datasets. [View](https://github.com/wahyuazizi/Predictive_Analysis_ML_Dicoding/)  
-
-
-## 🌐 Let's Connect!  
-- 📝 [My Portfolio](#) *(coming soon!)*  
+## 🌐 Let's Connect!    
 - 💼 [LinkedIn](https://www.linkedin.com/in/wahyuazizi)  
 - 🐦 [Instagram](https://instagram.com/whyu.zi)  
 - 📧 Reach me at **wahyuazizi03@gmail.com**
