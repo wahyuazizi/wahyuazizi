@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Wahyu and I'm a Deep Learning Enthusiast</h2>
+<h2 align="left">Hi 👋! Wahyu here. An AI Enthusiast</h2>
 <!--START_SECTION:waka-->
 
 ```txt
