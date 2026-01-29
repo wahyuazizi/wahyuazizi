@@ -8,6 +8,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahyuazizi&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=wahyuazizi&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/> -->
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 </div>
 
