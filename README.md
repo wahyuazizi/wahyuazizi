@@ -4,9 +4,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahyuazizi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=wahyuazizi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahyuazizi&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=wahyuazizi&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=wahyuazizi&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/> -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 
 ###
