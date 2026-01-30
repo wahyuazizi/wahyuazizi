@@ -9,7 +9,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=wahyuazizi&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/> -->
 <!--START_SECTION:waka-->
 
-```rust
+```java
 From: 05 March 2025 - To: 29 January 2026
 
 Total Time: 163 hrs 48 mins
