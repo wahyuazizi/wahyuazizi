@@ -8,6 +8,83 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahyuazizi&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=wahyuazizi&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/> -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2050%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 639.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 46 Public Repositories 
+ > 
+> 🔑 27 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                198 commits         ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+🌆 Daytime                234 commits         ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+🌃 Evening                370 commits         ███████████░░░░░░░░░░░░░░   42.97 % 
+🌙 Night                  59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Tuesday                  164 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Wednesday                202 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Thursday                 191 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Friday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Saturday                 107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Sunday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Makassar
+
+💬 Programming Languages: 
+Java                     8 hrs 29 mins       ███████████████████████░░   91.87 % 
+SQL                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Java Properties          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Properties               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+
+🔥 Editors: 
+IntelliJ IDEA            9 hrs 14 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+tokonyadia               9 hrs 14 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  9 hrs 14 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/wahyuazizi/wahyuazizi/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/01/2026 02:47:49 UTC
 <!--END_SECTION:waka-->
 </div>
 
