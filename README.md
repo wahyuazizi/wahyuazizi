@@ -8,40 +8,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahyuazizi&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=wahyuazizi&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/> -->
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                200 commits         ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-🌆 Daytime                250 commits         ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-🌃 Evening                370 commits         ███████████░░░░░░░░░░░░░░   42.09 % 
-🌙 Night                  59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-```
-📅 **I'm Most Productive on Wednesday** 
+```rust
+From: 05 March 2025 - To: 29 January 2026
 
-```text
-Monday                   48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Tuesday                  164 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Wednesday                202 commits         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Thursday                 191 commits         █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-Friday                   84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Saturday                 107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Sunday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Total Time: 163 hrs 48 mins
+
+Python                     87 hrs 50 mins  >>>>>>>>>>>>>------------   52.75 %
+JavaScript                 23 hrs 27 mins  >>>>---------------------   14.09 %
+Java                       8 hrs 29 mins   >------------------------   05.10 %
+PHP                        6 hrs 56 mins   >------------------------   04.17 %
+Blade Template             5 hrs 12 mins   >------------------------   03.13 %
+Dart                       4 hrs 57 mins   >------------------------   02.98 %
+Markdown                   4 hrs 54 mins   >------------------------   02.95 %
+Docker                     4 hrs 49 mins   >------------------------   02.90 %
+Bash                       4 hrs 42 mins   >------------------------   02.83 %
+Other                      2 hrs 41 mins   -------------------------   01.62 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     8 hrs 29 mins       ███████████████████████░░   91.87 % 
-SQL                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Java Properties          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Properties               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-```
-
-
- Last Updated on 30/01/2026 05:38:23 UTC
 <!--END_SECTION:waka-->
 </div>
 
