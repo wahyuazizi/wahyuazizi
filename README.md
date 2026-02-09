@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Wahyu here. BE Developer</h2>
+<h2 align="left">Hi 👋! Wahyu here</h2>
 
 
 ###
