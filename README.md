@@ -55,8 +55,6 @@ PHP                        6 hrs 56 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="30" alt="hibernate logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TS logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TS logo"  />
 </div>
 
 ###
