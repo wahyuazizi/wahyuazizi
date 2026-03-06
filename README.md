@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```java
-From: 04 March 2025 - To: 04 March 2026
+From: 05 March 2025 - To: 05 March 2026
 
-Total Time: 276 hrs 44 mins
+Total Time: 284 hrs 11 mins
 
-Python                     87 hrs 50 mins        ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.40 %
-Java                       70 hrs 8 mins         ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.08 %
-JavaScript                 23 hrs 49 mins        ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.52 %
-TypeScript                 16 hrs 3 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.74 %
+Python                     87 hrs 50 mins        ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.59 %
+Java                       70 hrs 8 mins         ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.43 %
+JavaScript                 23 hrs 49 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.30 %
+TypeScript                 20 hrs 42 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.21 %
 ```
 
 <!--END_SECTION:waka-->
