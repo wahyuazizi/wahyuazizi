@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```java
-From: 30 July 2025 - To: 30 July 2026
+From: 31 July 2025 - To: 31 July 2026
 
 Total Time: 322 hrs 27 mins
 
