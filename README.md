@@ -10,9 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```java
-From: 06 August 2025 - To: 06 August 2026
+From: 07 August 2025 - To: 07 August 2026
 
-Total Time: 322 hrs 15 mins
+Total Time: 322 hrs 12 mins
 
 JavaScript                104 hrs 18 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.27 %
 Java                      96 hrs 6 mins         ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.73 %
