@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```java
-From: 20 September 2025 - To: 20 September 2026
+From: 21 September 2025 - To: 21 September 2026
 
-Total Time: 308 hrs 41 mins
+Total Time: 312 hrs 38 mins
 
-JavaScript                107 hrs 23 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.79 %
-Java                      96 hrs 6 mins         ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.13 %
-TypeScript                52 hrs 34 mins        ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.03 %
-HTML                      13 hrs 28 mins        ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.37 %
+JavaScript                108 hrs 28 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.70 %
+Java                      96 hrs 6 mins         ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.74 %
+TypeScript                54 hrs 42 mins        ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.50 %
+HTML                      13 hrs 28 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.31 %
 ```
 
 <!--END_SECTION:waka-->
